@@ -1,6 +1,3 @@
-Here's a draft `README.md` for your GitHub repository based on the notebook `Text_Classification_with_DistilBERT.ipynb`. Let me know if you’d like to include installation instructions, dataset references, example predictions, or visuals.
-
----
 
 # 🌪️ Text Classification with DistilBERT
 
@@ -68,10 +65,3 @@ The notebook includes performance evaluation (accuracy, classification report) a
 - Better handling of class imbalance
 - Model export and deployment
 
-## 📬 Contact
-
-If you have any questions or feedback, feel free to reach out!
-
----
-
-Would you like me to generate a `requirements.txt` too, or add a section for downloading the dataset if it’s public?
